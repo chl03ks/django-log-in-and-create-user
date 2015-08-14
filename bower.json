@@ -1,0 +1,9 @@
+{
+  "name": "djangofy",
+  "version": "0.0.0",
+  "homepage": "https://github.com/gvsdan/django-log-in-and-create-user",
+  "authors": [
+    "Dan <udevelopd@gmail.com>"
+  ],
+  "license": "MIT"
+}
